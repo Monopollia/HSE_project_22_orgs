@@ -16,3 +16,8 @@ https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scroll
 |Klebsiella michiganensis |1              |4505752     |3632         |70.56                  |4563885                |1610                   |16364                        |
 |Klebsiella oxytoca      |1              |3283688     |2822         |74.58                  |3283688                |1407                   |14016                        |
 |Klebsiella quasipneumoniae|1              |4139808     |3339         |71.17                  |4139808                |1544                   |15588                        |
+![image](https://user-images.githubusercontent.com/61352475/173182533-dfcab788-ce6c-4d6b-b61c-fb7cc066a9c1.png)
+![image](https://user-images.githubusercontent.com/61352475/173182541-a3cf0222-c77f-4989-a6bc-55b1124fc556.png)
+![image](https://user-images.githubusercontent.com/61352475/173182550-08af196b-23fe-48ad-ab19-c7feffce2294.png)
+![image](https://user-images.githubusercontent.com/61352475/173182555-48993480-ff7e-46e6-84c0-41e68acf129f.png)
+![image](https://user-images.githubusercontent.com/61352475/173182570-6fb07a0b-e223-4705-b710-87abbf820e89.png)
