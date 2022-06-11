@@ -4,7 +4,7 @@ Klebsiella huaxiensis
 Klebsiella michiganensis
 Klebsiella oxytoca
 Klebsiella quasipneumoniae
-##Colab
+## Colab
 https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scrollTo=v-P9XmQg4Otu
 ## 1. Таблица аннотированных генов
 |Название организма             |Кол-во хромосом|Длина генома|Кол-во генов |Процент генов в геноме |Кол-во участков Z-ДНК|Кол-во участков Z-ДНК* |Общая длина участков Z-ДНК*  |
