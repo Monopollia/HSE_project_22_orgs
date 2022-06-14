@@ -6,7 +6,7 @@ Klebsiella oxytoca
 Klebsiella quasipneumoniae
 ## Colab
 https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scrollTo=v-P9XmQg4Otu
-![image](https://user-images.githubusercontent.com/61352475/173180743-a8e8c3f2-15d4-4d13-a2c2-c1b07b9ca760.png)
+
 |  | количество последовательностей| Общая длина последовательностей |Количество найденных участков Zh-score>500 | Общая длина | Процент покрытия экзонами | Количество генов | предсказанные Z-dna|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
  |Klebsiella aerogenes | 1 | 5249267 | 39069 | 368700 | 90.1 | 5100 | 5183422|
@@ -22,7 +22,8 @@ https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scroll
 ![image](https://user-images.githubusercontent.com/61352475/173182550-08af196b-23fe-48ad-ab19-c7feffce2294.png)
 ![image](https://user-images.githubusercontent.com/61352475/173182555-48993480-ff7e-46e6-84c0-41e68acf129f.png)
 ![image](https://user-images.githubusercontent.com/61352475/173182570-6fb07a0b-e223-4705-b710-87abbf820e89.png)
-# ![image](https://user-images.githubusercontent.com/61352475/173187352-80318126-94e6-49d8-a3f0-bfc1a607e67d.png)
+
+## Кластеры и геномы
  всего кластеров - 5351
  
 ![image](https://user-images.githubusercontent.com/61352475/173388390-d23d8e2e-f68f-4e39-acfb-c78a0789b208.png)
