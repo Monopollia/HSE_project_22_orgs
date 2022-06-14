@@ -24,6 +24,22 @@ https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scroll
 ![image](https://user-images.githubusercontent.com/61352475/173182570-6fb07a0b-e223-4705-b710-87abbf820e89.png)
 
 ## Кластеры и геномы
- всего кластеров - 3384
+ всего кластеров - 4180
  
+ ![image](https://user-images.githubusercontent.com/61352475/173520429-ff34e6c8-450f-4fc9-9f05-620c7053235c.png)
+### Количество геномов одновременно: 
+![image](https://user-images.githubusercontent.com/61352475/173546948-54224579-55ca-43bb-acb4-ca5c04eaf5b8.png)
+### Количество генов:
 ![image](https://user-images.githubusercontent.com/61352475/173510106-c36d6abe-76af-4f11-bd1e-3ca41ae2b573.png)
+# В моих кластерах не нашлось консервативных генов.
+![image](https://user-images.githubusercontent.com/61352475/173520003-c97e39ba-0dbb-46a9-ac20-5f5bf472af0c.png)
+# Визуализация Z-dna
+## 1
+![image](https://user-images.githubusercontent.com/61352475/173576669-97497527-4311-442a-8205-22d4ef1a96b0.png)
+## 3
+![image](https://user-images.githubusercontent.com/61352475/173576792-a7bb2fb2-8bbd-4875-b061-0fdc4191a0d9.png)
+## 4
+![image](https://user-images.githubusercontent.com/61352475/173576852-5a04cba8-bfa6-4f85-b8f9-ff2f14364444.png)
+## 5
+![image](https://user-images.githubusercontent.com/61352475/173576912-ab040402-4a92-4182-87a6-9f0dfce24953.png)
+
