@@ -24,6 +24,6 @@ https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scroll
 ![image](https://user-images.githubusercontent.com/61352475/173182570-6fb07a0b-e223-4705-b710-87abbf820e89.png)
 
 ## Кластеры и геномы
- всего кластеров - 5351
+ всего кластеров - 3384
  
 ![image](https://user-images.githubusercontent.com/61352475/173388390-d23d8e2e-f68f-4e39-acfb-c78a0789b208.png)
