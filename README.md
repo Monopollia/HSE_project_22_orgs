@@ -1,9 +1,15 @@
 # HSE_project_22_orgs
-Klebsiella aerogenes
-Klebsiella huaxiensis
-Klebsiella michiganensis
-Klebsiella oxytoca
-Klebsiella quasipneumoniae
+[Klebsiella aerogenes](https://eol.org/pages/47182399)
+
+[Klebsiella huaxiensis](https://eol.org/pages/55561501)
+
+[Klebsiella michiganensis](https://eol.org/pages/35826307)
+
+[Klebsiella oxytoca](https://eol.org/pages/972784)
+
+[Klebsiella quasipneumoniae](https://eol.org/pages/52135763)
+## Klebsiella - род грамотрицательных, оксидазоотрицательных, палочковидных бактерий с ярко выраженной оболочкой на основе полисахаридов.
+### Наиболее частыми возбудителями клебсиеллёзов являются Klebsiella pneumoniae (самая патогенная) и Klebsiella oxytoca. Клебсиеллы вызывают пневмонию, урогенитальные инфекции, в том числе у новорождённых, у ослабленных и пожилых лиц, конъюнктивиты, менингиты, сепсис, острые кишечные инфекции.
 ## [Colab](https://colab.research.google.com/drive/1vz3KBdpZRKGDJNS3i428M-5wsqcpijgT#scrollTo=pIZPt1ptkh5D)
 
 |  | количество последовательностей| Общая длина последовательностей |Количество найденных участков Zh-score>500 | Общая длина | Процент покрытия экзонами | Количество генов | предсказанные Z-dna|
@@ -23,17 +29,16 @@ Klebsiella quasipneumoniae
 ![image](https://user-images.githubusercontent.com/61352475/173182570-6fb07a0b-e223-4705-b710-87abbf820e89.png)
 
 ## Кластеры и геномы
- всего кластеров - 4180
- 
- ![image](https://user-images.githubusercontent.com/61352475/173520429-ff34e6c8-450f-4fc9-9f05-620c7053235c.png)
-### Количество геномов одновременно: 
-![image](https://user-images.githubusercontent.com/61352475/173546948-54224579-55ca-43bb-acb4-ca5c04eaf5b8.png)
+ всего кластеров - 5658
 ### Количество генов:
+![image](https://user-images.githubusercontent.com/61352475/173546948-54224579-55ca-43bb-acb4-ca5c04eaf5b8.png)
+### Количество геномов одновременно: 
 ![image](https://user-images.githubusercontent.com/61352475/173510106-c36d6abe-76af-4f11-bd1e-3ca41ae2b573.png)
-# В моих кластерах не нашлось консервативных генов.
-![image](https://user-images.githubusercontent.com/61352475/173520003-c97e39ba-0dbb-46a9-ac20-5f5bf472af0c.png)
+# Были отсортированы кластеры по количеству Z-DNA на промотерах, плюс я учитывала количество генов. Судя по гистограмме 5 генов в кластере оказывается в большинстве случаев.
 ## Выбранные клатеры:
 ![image](https://user-images.githubusercontent.com/61352475/173821915-67ffd356-aab2-4280-b117-5a3a0dbb3aff.png)
+![image](https://user-images.githubusercontent.com/61352475/173875536-13e6c1c7-5c0b-41ef-933b-1a14100f1870.png)
+
 ### Сводная таблица по генам:
 | **Номер кластера** | **Кол-во генов** | **Названия генов** | **Функция генов** | **Z-ДНК и их расположение** | **Z-DNA score** | 
 | ------------- | ------------- |--------------------| ---- | --- | ----- |
