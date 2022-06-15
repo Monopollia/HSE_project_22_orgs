@@ -44,11 +44,11 @@
 | ------------- | ------------- |--------------------| ---- | --- |
 |  кластер 1| 5 | QBG08914.1	AYZ54872.1	QDR56091.1	BBW77118.1	QPV89364.1	 | cation symporter-1/-/-/NCS1 family nucleobase:cation symporter-1 | 9 (5) | 
 | кластер 2| 5 | QBG07216.1	AYZ51384.1	QDR55090.1	BBW75265.1	QPV88468.1 | NuoB/NADH-quinone oxidoreductase subunit B/NuoB/NADH-quinone oxidoreductase subunit NuoB | 16 (5) | 
-| кластер 3| 5 |QBG09204.1	AYZ54619.1	QDR57000.1	BBW77527.1	QPV85748.1	 | +/-/-/pyridoxal phosphatase | 10 (5) |
-| кластер 4| 5 | QBG08477.1	AYZ50234.1	QDR55873.1	BBW76623.1	QPV89206.1	 | +/-/-/cytochrome b561 |  17 (5) | 
-| кластер 5| 5 | QBG07667.1	AYZ51034.1	QDR55435.1	BBW75723.1	QPV88768.1 | hypothetical protein/-/MAPEG family protein | 12 (5) | 
-| кластер 6| 5 |QBG09983.1	AYZ53832.1	QDR57600.1	BBW78279.1	QPV86401.1 | +/-/acetolactate synthase 3 large subunit | 19 (5) | 
-### У некоторых генов нет описанной функции, аднако по кластеризации имеющимся данным можно предположить, что в каждом кластере кодируются схожие белки.
+| кластер 3| 5 |QBG09204.1	AYZ54619.1	QDR57000.1	BBW77527.1	QPV85748.1	 | pyridoxal phosphatase | 10 (5) |
+| кластер 4| 5 | QBG08477.1	AYZ50234.1	QDR55873.1	BBW76623.1	QPV89206.1	 | cytochrome b561 |  17 (5) | 
+| кластер 5| 5 | QBG07667.1	AYZ51034.1	QDR55435.1	BBW75723.1	QPV88768.1 | hypothetical protein/MAPEG family protein | 12 (5) | 
+| кластер 6| 5 |QBG09983.1	AYZ53832.1	QDR57600.1	BBW78279.1	QPV86401.1 | acetolactate synthase 3 large subunit | 19 (5) | 
+### У некоторых генов нет описанной функции на сайте, а только в имеющихся файлах (protein), однако по кластеризации и имеющимся данным можно предположить, что в каждом кластере кодируются схожие белки.
 # Визуализация Z-dna + Z-DNA score
 ## 1
 ![image](https://user-images.githubusercontent.com/61352475/173899449-dff886a3-7cc3-4ea6-8de9-647badb52fc0.png)
