@@ -36,28 +36,35 @@
 ![image](https://user-images.githubusercontent.com/61352475/173510106-c36d6abe-76af-4f11-bd1e-3ca41ae2b573.png)
 # Были отсортированы кластеры по количеству Z-DNA на промотерах, плюс я учитывала количество генов. Судя по гистограмме 5 генов в кластере оказывается в большинстве случаев.
 ## Выбранные клатеры:
-![image](https://user-images.githubusercontent.com/61352475/173821915-67ffd356-aab2-4280-b117-5a3a0dbb3aff.png)
-![image](https://user-images.githubusercontent.com/61352475/173875536-13e6c1c7-5c0b-41ef-933b-1a14100f1870.png)
+
+![image](https://user-images.githubusercontent.com/61352475/173896685-6e5a8eb7-e856-487c-bde9-f7c4fb7e026d.png)
 
 ### Сводная таблица по генам:
-| **Номер кластера** | **Кол-во генов** | **Названия генов** | **Функция генов** | **Z-ДНК и их расположение** | **Z-DNA score** | 
+| **Номер кластера** | **Кол-во генов** | **Названия генов** | **Функция генов** | **Z-ДНК и их расположение** |
 | ------------- | ------------- |--------------------| ---- | --- | ----- |
-|  кластер 1| 6 | WP_146573854.1	WP_114227187.1	WP_187542091.1	WP_235091130.1	WP_187761669.1 | pantoate--beta-alanine ligase | 29 (5 в промоторе) | См. рис. 1 | 
-| кластер 2| 5 | WP_146573210.1	WP_114227352.1	WP_187541743.1	WP_235091030.1	WP_187764438.1 | phosphatidyl-serine/phosphatidyl-glycerophosphate/cardiolipin synthase | 31 (5 в промоторе) | См. рис. 2 | 
-| кластер 3| 5 | WP_146573028.1	WP_240309521.1	WP_187542524.1	WP_187539782.1	WP_187762435.1 | polyprenyl synthetase | 34 (5 в промоторе) | См. рис. 3 |
-| кластер 4| 5 | WP_146572053.1	WP_114227003.1	WP_246450295.1	WP_187539057.1	WP_187762793.1 | RecX family transcriptional regulator |  25 (5 в промоторе) | См. рис. 4 |
-| кластер 5| 5 | WP_146569715.1	WP_114228566.1	WP_187542300.1	WP_187537023.1	WP_187762347.1 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase | 35 (5 в промоторе) | См. рис. 5 |
-| кластер 6| 5 | WP_146571008.1	WP_114228835.1	WP_187542934.1	WP_187537300.1	WP_187763601.1 | SsrA-binding protein SmpB | 16 (5 в промоторе) | См. рис. 6 |
-# Визуализация Z-dna
+|  кластер 1| 7 | QBG08914.1	AYZ54872.1	QDR56091.1	BBW77118.1	QPV89364.1	 | cation symporter-1; | 9 (5) | 
+| кластер 2| 5 | QBG07216.1	AYZ51384.1	QDR55090.1	BBW75265.1	QPV88468.1 | phosphatidyl-serine/phosphatidyl-glycerophosphate/cardiolipin synthase | 16 (5) | 
+| кластер 3| 5 |QBG09204.1	AYZ54619.1	QDR57000.1	BBW77527.1	QPV85748.1	 | polyprenyl synthetase | 10 (5) |
+| кластер 4| 5 | QBG08477.1	AYZ50234.1	QDR55873.1	BBW76623.1	QPV89206.1	 | RecX family transcriptional regulator |  17 (5) | 
+| кластер 5| 5 | QBG07667.1	AYZ51034.1	QDR55435.1	BBW75723.1	QPV88768.1 | 12 (5)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase | 35 (5 в промоторе) | 
+| кластер 6| 5 |QBG09983.1	AYZ53832.1	QDR57600.1	BBW78279.1	QPV86401.1 | SsrA-binding protein SmpB | 19 (5) | 
+# Визуализация Z-dna + Z-DNA score
 ## 1
+![image](https://user-images.githubusercontent.com/61352475/173899449-dff886a3-7cc3-4ea6-8de9-647badb52fc0.png)
 
 ## 2
+![image](https://user-images.githubusercontent.com/61352475/173899634-2557d880-91db-4eb9-860c-b667d9b47482.png)
 
 ## 3
+![image](https://user-images.githubusercontent.com/61352475/173899690-b8f7e5b5-69f9-4b14-9e07-09ea7af90a78.png)
 
 ## 4
+![image](https://user-images.githubusercontent.com/61352475/173899759-f8dff50c-c8aa-4a6e-b6c9-6cc8d2f1f380.png)
 
 ## 5
+![image](https://user-images.githubusercontent.com/61352475/173899819-7e5e73f6-3d3c-4cfb-9f5f-c2d7322bc258.png)
 
 ## 6
+![image](https://user-images.githubusercontent.com/61352475/173899864-3bdfdeab-2981-4288-8102-a18231c74b6d.png)
+
 # Результаты выравнивания можно найти в соответствующей папке
