@@ -4,16 +4,15 @@ Klebsiella huaxiensis
 Klebsiella michiganensis
 Klebsiella oxytoca
 Klebsiella quasipneumoniae
-## Colab
-https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scrollTo=v-P9XmQg4Otu
+## [Colab](https://colab.research.google.com/drive/1vz3KBdpZRKGDJNS3i428M-5wsqcpijgT#scrollTo=pIZPt1ptkh5D)
 
 |  | количество последовательностей| Общая длина последовательностей |Количество найденных участков Zh-score>500 | Общая длина | Процент покрытия экзонами | Количество генов | предсказанные Z-dna|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- |Klebsiella aerogenes | 1 | 5249267 | 39069 | 368700 | 90.1 | 5100 | 5183422|
- | Klebsiella huaxiensis | 1 | 6300829 |34483 | 329328 | 88.4 | 6048 | 6183608|
+ |Klebsiella aerogenes | 1 | 5249267 | 39069 | 368700 | 90.1 | 5027 | 5183422|
+ | Klebsiella huaxiensis | 1 | 6300829 |34483 | 329328 | 88.4 | 5837 | 6183608|
 | Klebsiella michiganensis | 1 | 6041841 | 47242 | 449478 | 87.8 | 5614| 5935402|
- | Klebsiella oxytoca | 1 | 5879076 | 43148 | 409990 | 88.4| 5608 |5864574|
- | Klebsiella quasipneumoniae | 1 | 5391123 | 37260 | 352800 | 88.3 | 5217 |5242686|
+ | Klebsiella oxytoca | 1 | 5879076 | 43148 | 409990 | 88.4| 5511 |5864574|
+ | Klebsiella quasipneumoniae | 1 | 5391123 | 37260 | 352800 | 88.3 | 5166 |5242686|
 ## Гистограммы  Z-ДНК
 
 
@@ -33,13 +32,27 @@ https://colab.research.google.com/drive/1fcm5-tDbTr7uenFJ33_GRxZGVtFjyzu9#scroll
 ![image](https://user-images.githubusercontent.com/61352475/173510106-c36d6abe-76af-4f11-bd1e-3ca41ae2b573.png)
 # В моих кластерах не нашлось консервативных генов.
 ![image](https://user-images.githubusercontent.com/61352475/173520003-c97e39ba-0dbb-46a9-ac20-5f5bf472af0c.png)
+## Выбранные клатеры:
+![image](https://user-images.githubusercontent.com/61352475/173821915-67ffd356-aab2-4280-b117-5a3a0dbb3aff.png)
+### Сводная таблица по генам:
+| **Номер кластера** | **Кол-во генов** | **Названия генов** | **Функция генов** | **Z-ДНК и их расположение** | **Z-DNA score** | 
+| ------------- | ------------- |--------------------| ---- | --- | ----- |
+|  кластер 1| 6 | WP_146573854.1	WP_114227187.1	WP_187542091.1	WP_235091130.1	WP_187761669.1 | pantoate--beta-alanine ligase | 29 (5 в промоторе) | См. рис. 1 | 
+| кластер 2| 5 | WP_146573210.1	WP_114227352.1	WP_187541743.1	WP_235091030.1	WP_187764438.1 | phosphatidyl-serine/phosphatidyl-glycerophosphate/cardiolipin synthase | 31 (5 в промоторе) | См. рис. 2 | 
+| кластер 3| 5 | WP_146573028.1	WP_240309521.1	WP_187542524.1	WP_187539782.1	WP_187762435.1 | polyprenyl synthetase | 34 (5 в промоторе) | См. рис. 3 |
+| кластер 4| 5 | WP_146572053.1	WP_114227003.1	WP_246450295.1	WP_187539057.1	WP_187762793.1 | RecX family transcriptional regulator |  25 (5 в промоторе) | См. рис. 4 |
+| кластер 5| 5 | WP_146569715.1	WP_114228566.1	WP_187542300.1	WP_187537023.1	WP_187762347.1 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase | 35 (5 в промоторе) | См. рис. 5 |
+| кластер 6| 5 | WP_146571008.1	WP_114228835.1	WP_187542934.1	WP_187537300.1	WP_187763601.1 | SsrA-binding protein SmpB | 16 (5 в промоторе) | См. рис. 6 |
 # Визуализация Z-dna
 ## 1
-![image](https://user-images.githubusercontent.com/61352475/173576669-97497527-4311-442a-8205-22d4ef1a96b0.png)
-## 3
-![image](https://user-images.githubusercontent.com/61352475/173576792-a7bb2fb2-8bbd-4875-b061-0fdc4191a0d9.png)
-## 4
-![image](https://user-images.githubusercontent.com/61352475/173576852-5a04cba8-bfa6-4f85-b8f9-ff2f14364444.png)
-## 5
-![image](https://user-images.githubusercontent.com/61352475/173576912-ab040402-4a92-4182-87a6-9f0dfce24953.png)
 
+## 2
+
+## 3
+
+## 4
+
+## 5
+
+## 6
+# Результаты выравнивания можно найти в соответствующей папке
